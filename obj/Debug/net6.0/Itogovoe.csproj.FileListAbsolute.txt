@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Itogovoe\obj\Debug\net6.0\Itogovoe.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Itogovoe\obj\Debug\net6.0\Itogovoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Itogovoe\obj\Debug\net6.0\Itogovoe.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Itogovoe\obj\Debug\net6.0\Itogovoe.AssemblyInfo.cs
+C:\Users\User\Documents\Itogovoe\obj\Debug\net6.0\Itogovoe.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Itogovoe\bin\Debug\net6.0\Itogovoe.exe
+C:\Users\User\Documents\Itogovoe\bin\Debug\net6.0\Itogovoe.deps.json
+C:\Users\User\Documents\Itogovoe\bin\Debug\net6.0\Itogovoe.runtimeconfig.json
+C:\Users\User\Documents\Itogovoe\bin\Debug\net6.0\Itogovoe.dll
+C:\Users\User\Documents\Itogovoe\bin\Debug\net6.0\Itogovoe.pdb
+C:\Users\User\Documents\Itogovoe\obj\Debug\net6.0\Itogovoe.dll
+C:\Users\User\Documents\Itogovoe\obj\Debug\net6.0\refint\Itogovoe.dll
+C:\Users\User\Documents\Itogovoe\obj\Debug\net6.0\Itogovoe.pdb
+C:\Users\User\Documents\Itogovoe\obj\Debug\net6.0\Itogovoe.genruntimeconfig.cache
+C:\Users\User\Documents\Itogovoe\obj\Debug\net6.0\ref\Itogovoe.dll
