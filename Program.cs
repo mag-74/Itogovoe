@@ -3,16 +3,6 @@
 // При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.
 
 Console.Clear();
-// ПРИМЕРЫ:
-// "hello", "2", "world", ":-)" -> ["2", ":-)"]
-// "1234", "1567", "-2", "computer science" -> ["-2"]
-// "Russia", "Denmark", "Kazan" -> []
-string[] array = { "hello", "2", "world", ":-)" };
-string[] arraynew = new string[array.Length];
-
-//Console.WriteLine("Первоначальный массив строк: "); 
-//Console.WriteLine("[" string.Join(", ", array) + "]");
-
 void ArrayIf(string[] array, string[] arraynew)
 {
     int count = 0;
@@ -26,7 +16,22 @@ void ArrayIf(string[] array, string[] arraynew)
     }
 }
 
-
-//Console.WriteLine("Обработанный массив строк: ");
-//Console.WriteLine("[" string.Join(", ", arraynew)) + "]"); 
-
+void PrintArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+    Console.WriteLine();
+}
+// ПРИМЕРЫ:
+// "hello", "2", "world", ":-)" -> ["2", ":-)"]
+// "1234", "1567", "-2", "computer science" -> ["-2"]
+// "Russia", "Denmark", "Kazan" -> []
+string[] array = { "hello", "2", "world", ":-)" };
+string[] arraynew = new string[array.Length];
+Console.WriteLine("Первоначальный массив строк: ");
+PrintArray(array);
+ArrayIf(array, arraynew);
+Console.WriteLine("Обработанный массив строк (значения не более трех символов): ");
+PrintArray(arraynew);
